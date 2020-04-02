@@ -38,6 +38,6 @@ for (let i=0 ; i< collectionC.length; i++){
   }
   }
   }
-  alert(collectionC);
+
 return  collectionC;
 }
